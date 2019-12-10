@@ -29,4 +29,8 @@ The structure of the data should looks like:
 To execute the script and reproduce the results, simply run the EfficientDet.py
 
 
+There are some additional repos we studied, and some of our code are borrowed or modified from their work. The repos are folked in
 
+https://github.com/yle8458/CenterNet 
+
+https://github.com/yle8458/EfficientNet-PyTorch
