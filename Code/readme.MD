@@ -20,6 +20,12 @@ The structure of the data should looks like:
 
 |--\EfficientDet.py
 
+|--\EfficientDet.py
+
+|--\train.csv
+
+|--\sample-submission.csv
+
 To execute the script and reproduce the results, simply run the EfficientDet.py
 
 
