@@ -1,4 +1,4 @@
-Download the data from https://drive.google.com/open?id=1tjXmyce0bfdaTiUk4BzrG1oV2ZQLmITH and put them in /Data/ folder
+Download the data from https://drive.google.com/open?id=1tjXmyce0bfdaTiUk4BzrG1oV2ZQLmITH or https://storage.cloud.google.com/ppzt_ml2_project/pku-autonomous-driving%20(1).zip and unzip them into /Data/ folder
 
 The structure of the data should looks like:
 
